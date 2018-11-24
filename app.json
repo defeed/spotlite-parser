@@ -1,0 +1,6 @@
+{
+  "name": "Spotlite Parser",
+  "description": "A lightweight Sinatra app that provides up-to-date parsers for Spotlite",
+  "repository": "https://github.com/defeed/spotlite_parser",
+  "keywords": ["ruby", "sinatra"]
+}
